@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On Nothing...<br>🌱 Currently learning Java<br>
+🔭 Currently Working On Something...<br>
 
 
 # 💻 Tech Stack:
